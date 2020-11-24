@@ -8,3 +8,4 @@ if __name__ == "__main__":
     print("1")
     print("1")
     git rebase -i f19f97f
+    git rebase -i f19f97f
