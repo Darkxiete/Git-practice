@@ -1,2 +1,7 @@
 if __name__ == "__main__":
     print("pre-push")
+    print("changes 1")
+    print("changes 2")
+    print("changes 3")
+    print("changes 4")
+
